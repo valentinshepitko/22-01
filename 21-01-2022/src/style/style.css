@@ -34,12 +34,21 @@ h1 {
 }
 
 .block {
-    width: 25%;
+    width: 22%;
+    margin: 0 15px;
 }
 
 h2 {
     margin: 0 0 28px;
 }
 
+img {
+    margin: 0 0 28px;
+}
+
+span {
+    color: #544837;
+    font-weight: 500;
+}
 
 
