@@ -51,4 +51,23 @@ span {
     font-weight: 500;
 }
 
+.signup {
+    margin: 0 auto;
+    padding-top: 65px;
+}
+
+.signupbutton {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration: none;
+    background-color:#FF9900;
+    border-radius:3px;
+    border: 12px solid #FF9900;
+    display:inline-block;
+    cursor:pointer;
+    color: #ffffff;
+    padding:10px 40px;
+}
+
 
