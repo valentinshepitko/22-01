@@ -15,15 +15,16 @@ body {
     margin: 0 auto;
 }
 
-.flex-section {
-    padding: 60px 0;
-}
+
 
 h1 {
+    text-align: center;
     font-size: 36px;
-    max-width: 539px;
-    padding: 60px 0;
-    margin: 0 auto;
+    max-width: 548px;
+    line-height: 54px;
+    padding-top: 30px;
+    margin: 0 auto 54px;
+    width: 100%;
 
 }
 
