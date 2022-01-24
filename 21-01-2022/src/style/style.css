@@ -51,9 +51,11 @@ span {
     font-weight: 500;
 }
 
+/*button*/
+
 .signup {
     margin: 0 auto;
-    padding-top: 65px;
+    padding: 65px;
 }
 
 .signupbutton {
@@ -80,4 +82,16 @@ span {
     position:relative;
     top:1px;
 }
+
+/*footer*/
+.flexfooter {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.footerlinks {
+    list-style: none;
+}
+
 
